@@ -1,6 +1,6 @@
 #ifndef GyverEncoder_h
 #define GyverEncoder_h
-#include <Arduino.h>
+#include "Arduino.h"
 #define LIBRARY_VERSION	2.9
 
 /*
